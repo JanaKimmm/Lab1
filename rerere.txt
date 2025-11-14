@@ -1,1 +1,1 @@
-Change from master
+Resolved: Change from master & Change from feature-5
